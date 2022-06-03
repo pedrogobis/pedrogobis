@@ -1,10 +1,22 @@
-### Olá, eu sou o Pedro! 👋
+### Olá, Seja bem vindo, eu sou o Pedro! 👋
 <img src="https://cdn.discordapp.com/attachments/379360489941237761/946225387988455474/madagascar-alex-the-lion.gif"/>
 
+Meu nome é Pedro, mas pode me chamar de Sosk, tenho 24anos e estou me aprofundando nos estudos de programação.
 
-- 🌱 I’m currently learning front-end
+- Estou cursando o segundo semestre de Analise e Desenvolvimento de Sistemas na faculdade <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a>, já sou formado em nivel tecnico pela <a href="https://www.etecjoaobelarmino.com.br/" target="_blank">ETEC João Belarmino.</a> 
+  - Fora a faculdade complemento meus estudos atraves dos cursos da Alura e da Digital Inovation One
+
+- Atualmente estou fazendo a formação de Javascript para back-end na alura.
+  - Todas as minhas anotações/projetos desenvolvidos durante as aulas estão aqui no GitHub
 
 
+
+- 🌱 I’m currently learning Javascript.
+- 👉 future studies: React or Angular.
+- 👀 I'm interested in Javascript, Python, MySQL.
+- 📚 Studying frequently to have a good foundation to get the first job as a developer.
+
+-- Projetos[] --
 
 
 <div align="left">
