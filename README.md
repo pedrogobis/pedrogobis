@@ -1,4 +1,4 @@
-<center>### Olá, Seja bem vindo, eu sou o Pedro! 👋</center>
+# Olá, Seja bem-vindo, eu sou o Pedro! 👋
 <img src="https://cdn.discordapp.com/attachments/936075079215890514/982097595050643526/Git-Post.png"/>
 
 Meu nome é Pedro, mas pode me chamar de Sosk, tenho 24anos e estou me aprofundando nos estudos de programação.
@@ -16,15 +16,16 @@ Meu nome é Pedro, mas pode me chamar de Sosk, tenho 24anos e estou me aprofunda
 - 👀 I'm interested in Javascript, Python, MySQL.
 - 📚 Studying frequently to have a good foundation to get the first job as a developer.
 
------ Projetos[] -----
-*** Futuro ***
+<div align="center">
 
-
-<div align="left">
-  <a href="https://github.com/pedrogobis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogobis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
+<div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogobis&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+<div align="center">
+  <a href="https://github.com/pedrogobis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogobis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+ </div>
   
  <div align="center">
   <a href="https://www.instagram.com/pedrososk_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
