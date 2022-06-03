@@ -1,5 +1,5 @@
 ### Olá, Seja bem vindo, eu sou o Pedro! 👋
-<img src="https://cdn.discordapp.com/attachments/936075079215890514/982095369414520852/GitUpdate.png"/>
+<img src="https://cdn.discordapp.com/attachments/936075079215890514/982097595050643526/Git-Post.png"/>
 
 Meu nome é Pedro, mas pode me chamar de Sosk, tenho 24anos e estou me aprofundando nos estudos de programação.
 
