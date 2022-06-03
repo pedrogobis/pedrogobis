@@ -1,4 +1,4 @@
-### Olá, Seja bem vindo, eu sou o Pedro! 👋
+<center>### Olá, Seja bem vindo, eu sou o Pedro! 👋</center>
 <img src="https://cdn.discordapp.com/attachments/936075079215890514/982097595050643526/Git-Post.png"/>
 
 Meu nome é Pedro, mas pode me chamar de Sosk, tenho 24anos e estou me aprofundando nos estudos de programação.
@@ -16,7 +16,8 @@ Meu nome é Pedro, mas pode me chamar de Sosk, tenho 24anos e estou me aprofunda
 - 👀 I'm interested in Javascript, Python, MySQL.
 - 📚 Studying frequently to have a good foundation to get the first job as a developer.
 
--- Projetos[] --
+----- Projetos[] -----
+*** Futuro ***
 
 
 <div align="left">
