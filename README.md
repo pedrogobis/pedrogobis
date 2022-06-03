@@ -1,9 +1,9 @@
 ### Olá, Seja bem vindo, eu sou o Pedro! 👋
-<img src="https://cdn.discordapp.com/attachments/379360489941237761/946225387988455474/madagascar-alex-the-lion.gif"/>
+<img src="https://cdn.discordapp.com/attachments/936075079215890514/982095369414520852/GitUpdate.png"/>
 
 Meu nome é Pedro, mas pode me chamar de Sosk, tenho 24anos e estou me aprofundando nos estudos de programação.
 
-- Estou cursando o segundo semestre de Analise e Desenvolvimento de Sistemas na faculdade <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a>, já sou formado em nivel tecnico pela <a href="https://www.etecjoaobelarmino.com.br/" target="_blank">ETEC João Belarmino.</a> 
+- Estou cursando o segundo semestre de Analise e Desenvolvimento de Sistemas na faculdade <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a>,e já sou formado em nivel tecnico pela <a href="https://www.etecjoaobelarmino.com.br/" target="_blank">ETEC João Belarmino.</a> 
   - Fora a faculdade complemento meus estudos atraves dos cursos da Alura e da Digital Inovation One
 
 - Atualmente estou fazendo a formação de Javascript para back-end na alura.
