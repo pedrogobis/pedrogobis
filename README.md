@@ -41,3 +41,4 @@ Meu nome é Pedro, mas pode me chamar de Sosk, tenho 24 anos e estou me aprofund
     <a href="mailto:" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   </div>
+<a href="https://storyset.com/people">Ilustração base por People illustrations by Storyset</a>
