@@ -3,10 +3,10 @@
 <div>
 Meu nome é Pedro, mas pode me chamar de Sosk, tenho 24 anos e estou me aprofundando nos estudos de programação.
 
-- Estou cursando o segundo semestre de Analise e Desenvolvimento de Sistemas na faculdade <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a>, e já sou formado em nivel tecnico pela <a href="https://www.etecjoaobelarmino.com.br/" target="_blank">ETEC João Belarmino.</a> 
-  - Fora a faculdade complemento meus estudos atraves dos cursos da Alura e da Digital Inovation One
+- Estou cursando o segundo semestre de Analise e Desenvolvimento de Sistemas na faculdade <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a>, e já sou formado em nível técnico pela <a href="https://www.etecjoaobelarmino.com.br/" target="_blank">ETEC João Belarmino.</a> 
+  - Fora a faculdade complemento meus estudos através dos cursos da Alura e da Digital Inovation One
 
-- Atualmente estou fazendo a formação de Javascript para back-end na alura.
+- Atualmente estou fazendo a formação de React com typescript na Alura.
   - Todas as minhas anotações/projetos desenvolvidos durante as aulas estão aqui no GitHub
 </div>
 <hr>
@@ -14,8 +14,8 @@ Meu nome é Pedro, mas pode me chamar de Sosk, tenho 24 anos e estou me aprofund
 <div>
   <h3> About me:</h3>
   <ul>
-    <li>🌱   I’m currently learning Javascript.</li>
-    <li>👉 future studies: React or Angular.</li>
+    <li>🌱 I’m currently learning React with typescript.</li>
+    <li>👉 future studies: PowerBi</li>
     <li>👀 I'm interested in Javascript, Python, MySQL.</li>
     <li>📚 Studying frequently to have a good foundation to get the first job as a developer.</li>
   </ul>
