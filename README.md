@@ -14,7 +14,7 @@ Meu nome é Pedro, mas pode me chamar de Sosk, tenho 24 anos e estou me aprofund
 <div>
   <h3> About me:</h3>
   <ul>
-    <li>🌱 I’m currently learning PowerBI.</li>
+    <li>🌱 I’m currently learning Python.</li>
     <li>👉 future studies: Next.js</li>
     <li>👀 I'm interested in Javascript, Python, MySQL.</li>
     <li>📚 Studying frequently to have a good foundation to get the first job as a developer.</li>
