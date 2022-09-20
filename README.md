@@ -6,7 +6,7 @@ Meu nome é Pedro, mas pode me chamar de Sosk, tenho 24 anos e estou me aprofund
 - Estou cursando o segundo semestre de Analise e Desenvolvimento de Sistemas na faculdade <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a>, e já sou formado em nível técnico pela <a href="https://www.etecjoaobelarmino.com.br/" target="_blank">ETEC João Belarmino.</a> 
   - Fora a faculdade complemento meus estudos através dos cursos da Alura e da Digital Inovation One
 
-- Atualmente estou fazendo a formação de TypeScript na Alura.
+- Atualmente estou fazendo a formação de Python na Alura.
   - Todas as minhas anotações/projetos desenvolvidos durante as aulas estão aqui no GitHub
 </div>
 <hr>
